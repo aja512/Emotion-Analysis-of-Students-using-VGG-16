@@ -1,4 +1,4 @@
-# Emotion-Recognition-using-VGG-16-Flask
+# Emotion Analysis of Students using CNN VGG-16
 ## Introduction 
 
 Facial expression is one of the most important features of human emotion recognition. It was introduced as a research field by Darwin in his book *“The Expression of the Emotions in Man and Animals”*. 
