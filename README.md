@@ -7,3 +7,6 @@ It can be defined as the facial changes in response to a person’s internal emo
 
 **Haar feature-based cascade classifiers:** It detects frontal face in an image well. It is real time and faster in comparison to other face detector. This blog-post uses an implementation from Open-CV.
 
+-----
+**Video Link:** [Emotion Analysis of Students on Stored Video Demonstration](https://youtu.be/nrg-ZxT_wGI)
+----
