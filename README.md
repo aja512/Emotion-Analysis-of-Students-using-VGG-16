@@ -9,5 +9,10 @@ It can be defined as the facial changes in response to a person’s internal emo
 ## Model
 ![](https://github.com/aja512/Emotion-Analysis-of-Students-using-VGG-16/blob/main/model.png)
 -----
-**Video Link:** [Emotion Analysis of Students on Stored Video Demonstration](https://youtu.be/nrg-ZxT_wGI)
+**Video Link:** 
+
+[Emotion Analysis of Students on Stored Video Demonstration](https://youtu.be/nrg-ZxT_wGI)
+
+[Group 2:Emotion Analysis of Students (Innovex 2021)](https://youtu.be/GhGVXwPSPi4)
+
 ----
