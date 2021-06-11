@@ -15,8 +15,15 @@ It can be defined as the facial changes in response to a person’s internal emo
 - OpenCV
 - Keras 2.4.3
 - Tensorflow 2.4.1
-
+### Installation Steps:-
+```
+pip3 install keras
+pip3 install tensorflow
+pip3 install opencv-python
+pip3 install flask
+```
 ------
+
 **Video Link:** 
 
 [Emotion Analysis of Students on Stored Video Demonstration](https://youtu.be/nrg-ZxT_wGI)
