@@ -9,6 +9,14 @@ It can be defined as the facial changes in response to a person’s internal emo
 ## Model
 ![](https://github.com/aja512/Emotion-Analysis-of-Students-using-VGG-16/blob/main/model.png)
 -----
+## Software Requirements:
+- Python 3.8.3
+- Flask
+- OpenCV
+- Keras 2.4.3
+- Tensorflow 2.4.1
+
+------
 **Video Link:** 
 
 [Emotion Analysis of Students on Stored Video Demonstration](https://youtu.be/nrg-ZxT_wGI)
