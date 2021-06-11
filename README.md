@@ -15,12 +15,21 @@ It can be defined as the facial changes in response to a person’s internal emo
 - OpenCV
 - Keras 2.4.3
 - Tensorflow 2.4.1
+- Numpy
+- Seaborn
+- matplotlib
+
+[Python Installation Link](https://www.python.org/downloads)
+
 ### Installation Steps:-
 ```
 pip3 install keras
 pip3 install tensorflow
 pip3 install opencv-python
-pip3 install flask
+pip3 install Flask
+pip3 install numpy
+pip3 install seaborn
+pip3 install matplotlib
 ```
 ------
 
