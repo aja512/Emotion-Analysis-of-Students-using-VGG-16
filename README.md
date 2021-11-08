@@ -40,3 +40,9 @@ pip3 install matplotlib
 [Group 2:Emotion Analysis of Students (Innovex 2021)](https://youtu.be/GhGVXwPSPi4)
 
 ----
+
+**Paper Link**
+
+[Emotion Analysis of Students](https://www.ijrar.org/papers/IJRAR21D1380.pdf)
+
+----
